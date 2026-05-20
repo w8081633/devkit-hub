@@ -1,6 +1,7 @@
 # DevKit Hub 🛠️
 
 > 独立开发者工具箱 — 基于 Laravel 13 的一站式在线工具集
+> 作者：[wangzhen-fanhanyu](https://github.com/w8081633/devkit-hub)
 
 DevKit Hub 是一个轻量级的 Web 工具箱，为开发者提供日常开发中常用的在线工具，所有功能集成在单页面中，纯净无广告，用完即走。
 
@@ -95,7 +96,7 @@ resources/views/
 ├── welcome.blade.php          # 入口视图，通过 @include 加载所有组件
 └── components/
     ├── header.blade.php       # 导航栏
-    ├── home.blade.php         # 首页工具卡片网格
+    ├── home.blade.php         # 首页工具卡片网格 ⭐
     ├── timestamp.blade.php    # 时间戳互转工具
     ├── crypto.blade.php       # Base64/MD5 编解码
     ├── jwt.blade.php          # JWT 解析器

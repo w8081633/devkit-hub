@@ -3,6 +3,7 @@
     <div class="text-center py-6">
         <h2 class="text-3xl font-extrabold text-gray-950">好用、干净的开发者工具</h2>
         <p class="mt-2 text-gray-600">纯净无广告，用完即走，全面提升你的搬砖效率。</p>
+        <p class="mt-2 text-gray-400 text-sm">Made by <a href="https://github.com/w8081633/devkit-hub" target="_blank" class="text-indigo-500 hover:underline">wangzhen-fanhanyu</a></p>
     </div>
 
     <!-- 工具卡片网格 -->
