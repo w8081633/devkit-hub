@@ -111,7 +111,7 @@ resources/views/
 
 ## 截图
 
-> *（可在此处添加页面截图）*
+> ![图片说明文字](public/images/image.png)
 
 ## License
 
